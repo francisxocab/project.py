@@ -1,4 +1,4 @@
-### Este es un projecto de juego: Attack on Titan 
+### Este es un proyecto de juego: Attack on Titan 
 <p>
 El juego importa las librerias pygame y constantes (siempre se recomienda guardar las constantes en un archivo aparte)
 </p>
